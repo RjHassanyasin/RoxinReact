@@ -1,6 +1,6 @@
 {
-    "homepage": "https://github.com/RjHassanyasin/RoxinReact",
-    "name": "roxinreact",
+  "name": "roxinreact",
+  "homepage": "https://rjhassanyasin.github.io/RoxinReact/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
