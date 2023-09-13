@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RjHassanyasin/RoxinReact/static/css/main.303d931d.css",
+    "main.js": "/RjHassanyasin/RoxinReact/static/js/main.1c26dcd0.js",
+    "static/media/big-14.jpg": "/RjHassanyasin/RoxinReact/static/media/big-14.ae7c3159ae435d9e92d5.jpg",
+    "static/media/big-15.jpg": "/RjHassanyasin/RoxinReact/static/media/big-15.46ddf84172ec314826b1.jpg",
+    "static/media/big-01.jpg": "/RjHassanyasin/RoxinReact/static/media/big-01.409930330f8269c445e5.jpg",
+    "static/media/visual-small-11.jpg": "/RjHassanyasin/RoxinReact/static/media/visual-small-11.ba3acc424ac4608337d1.jpg",
+    "static/media/img-36.jpg": "/RjHassanyasin/RoxinReact/static/media/img-36.5900dcf10295b5edccd2.jpg",
+    "static/media/img-32.jpg": "/RjHassanyasin/RoxinReact/static/media/img-32.dc2fa85668418acbf78f.jpg",
+    "static/media/team-03.jpg": "/RjHassanyasin/RoxinReact/static/media/team-03.fc68d5dbb47ab35a35d3.jpg",
+    "static/media/img-33.jpg": "/RjHassanyasin/RoxinReact/static/media/img-33.e774f4674532bd54e8b0.jpg",
+    "static/media/img-34.jpg": "/RjHassanyasin/RoxinReact/static/media/img-34.a082d60f93433540dad2.jpg",
+    "static/media/img-37.jpg": "/RjHassanyasin/RoxinReact/static/media/img-37.d88d8088173553985911.jpg",
+    "static/media/img-35.jpg": "/RjHassanyasin/RoxinReact/static/media/img-35.2f88f1963b52f8f21dd5.jpg",
+    "static/media/team-01.jpg": "/RjHassanyasin/RoxinReact/static/media/team-01.db70c22442dac7d0193e.jpg",
+    "static/media/team-02.jpg": "/RjHassanyasin/RoxinReact/static/media/team-02.e08ccf1a42f786e33a37.jpg",
+    "static/media/logo.svg": "/RjHassanyasin/RoxinReact/static/media/logo.bc77a476f94f4e4f135250522bb685c2.svg",
+    "index.html": "/RjHassanyasin/RoxinReact/index.html",
+    "main.303d931d.css.map": "/RjHassanyasin/RoxinReact/static/css/main.303d931d.css.map",
+    "main.1c26dcd0.js.map": "/RjHassanyasin/RoxinReact/static/js/main.1c26dcd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303d931d.css",
+    "static/js/main.1c26dcd0.js"
+  ]
+}
